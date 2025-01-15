@@ -1,0 +1,28 @@
+header {
+    background-color: darkgrey;
+
+}
+
+
+/* table styling */
+table {
+    border: 1px solid black;
+    padding: 8px;
+    background-color: black;
+}
+
+tr {
+    background-color: darkgrey;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+}
+
+table th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    background-color: darkgrey;
+    color:black;
+    font-style:inherit;
+}
